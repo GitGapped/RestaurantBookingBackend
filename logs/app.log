@@ -1,0 +1,1699 @@
+2025-03-28 20:30:09 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-03-28 20:30:09 [INFO] 🌐 App ready at: http://localhost:3000
+2025-03-28 20:30:09 [INFO] 🌍 Environment: development
+2025-03-28 20:30:22 [ERROR] Unhandled Error: JWT_SECRET is not defined
+ReferenceError: JWT_SECRET is not defined
+    at login (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\authController.js:14:40)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-03-28 20:30:34 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-03-28 20:31:02 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-03-28 20:31:02 [INFO] 🌐 App ready at: http://localhost:3000
+2025-03-28 20:31:02 [INFO] 🌍 Environment: development
+2025-03-28 21:08:24 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-03-28 21:08:25 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-03-28 21:08:25 [INFO] 🌐 App ready at: http://localhost:3000
+2025-03-28 21:08:25 [INFO] 🌍 Environment: development
+2025-03-28 21:08:32 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-03-28 21:08:33 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-03-28 21:08:33 [INFO] 🌐 App ready at: http://localhost:3000
+2025-03-28 21:08:33 [INFO] 🌍 Environment: development
+2025-03-28 21:10:38 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-03-28 21:10:39 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-03-28 21:10:39 [INFO] 🌐 App ready at: http://localhost:3000
+2025-03-28 21:10:39 [INFO] 🌍 Environment: development
+2025-03-28 21:12:25 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-03-28 21:13:18 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-03-28 21:13:18 [INFO] 🌐 App ready at: http://localhost:3000
+2025-03-28 21:13:18 [INFO] 🌍 Environment: development
+2025-04-04 21:03:47 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-04 21:03:47 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-04 21:03:47 [INFO] 🌍 Environment: development
+2025-04-04 21:05:46 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-04 21:05:48 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-04 21:05:48 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-04 21:05:48 [INFO] 🌍 Environment: development
+2025-04-04 21:06:32 [ERROR] Error fetching restaurants: Table 'itelalis22b_db2.restaurant' doesn't exist
+Error: Table 'itelalis22b_db2.restaurant' doesn't exist
+    at PromiseConnection.execute (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:33:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-04 21:06:38 [ERROR] Error fetching restaurants: Table 'itelalis22b_db2.restaurant' doesn't exist
+Error: Table 'itelalis22b_db2.restaurant' doesn't exist
+    at PromiseConnection.execute (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:33:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-04 21:07:51 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-04 21:08:09 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-04 21:08:09 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-04 21:08:09 [INFO] 🌍 Environment: development
+2025-04-04 21:08:26 [ERROR] Error fetching restaurants: connect ETIMEDOUT
+Error: connect ETIMEDOUT
+    at Object.createConnectionPromise [as createConnection] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\promise.js:19:31)
+    at Object.createConnection (C:\Users\johnt\WebstormProjects\book-api2\src\config\database.js:5:18)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:32:31)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+2025-04-04 21:08:51 [ERROR] Error fetching restaurants: connect ETIMEDOUT
+Error: connect ETIMEDOUT
+    at Object.createConnectionPromise [as createConnection] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\promise.js:19:31)
+    at Object.createConnection (C:\Users\johnt\WebstormProjects\book-api2\src\config\database.js:5:18)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:32:31)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+2025-04-04 21:09:23 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-04 21:10:07 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-04 21:10:07 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-04 21:10:07 [INFO] 🌍 Environment: development
+2025-04-04 21:10:12 [ERROR] Error fetching restaurants: Table 'itelalis22b_db2.restaurant' doesn't exist
+Error: Table 'itelalis22b_db2.restaurant' doesn't exist
+    at PromiseConnection.execute (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:33:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-04 21:11:09 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-04 21:12:34 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-04 21:12:34 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-04 21:12:34 [INFO] 🌍 Environment: development
+2025-04-04 21:12:45 [ERROR] Error fetching restaurants: Table 'itelalis22b_db3.restaurant' doesn't exist
+Error: Table 'itelalis22b_db3.restaurant' doesn't exist
+    at PromiseConnection.execute (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:33:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-04 21:13:13 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-04 21:13:16 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-04 21:13:16 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-04 21:13:16 [INFO] 🌍 Environment: development
+2025-04-04 21:14:49 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-04 21:14:50 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-04 21:14:50 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-04 21:14:50 [INFO] 🌍 Environment: development
+2025-04-04 21:20:45 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 18:40:59 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 18:40:59 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 18:40:59 [INFO] 🌍 Environment: development
+2025-04-11 18:41:27 [ERROR] Error fetching restaurants: Table 'itelalis22b_db3.restaurants' doesn't exist
+Error: Table 'itelalis22b_db3.restaurants' doesn't exist
+    at PromiseConnection.execute (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:33:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-11 18:41:35 [ERROR] Error fetching restaurants: Table 'itelalis22b_db3.restaurants' doesn't exist
+Error: Table 'itelalis22b_db3.restaurants' doesn't exist
+    at PromiseConnection.execute (C:\Users\johnt\WebstormProjects\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getAllRestaurants (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:33:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-11 18:41:39 [ERROR] uncaughtException: restaurant_id is not defined
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+2025-04-11 18:44:44 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 18:44:44 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 18:44:44 [INFO] 🌍 Environment: development
+2025-04-11 18:44:49 [ERROR] uncaughtException: restaurant_id is not defined
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+2025-04-11 18:48:18 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 18:48:18 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 18:48:18 [INFO] 🌍 Environment: development
+2025-04-11 18:48:36 [ERROR] uncaughtException: restaurant_id is not defined
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+2025-04-11 18:49:47 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 18:49:47 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 18:49:47 [INFO] 🌍 Environment: development
+2025-04-11 18:49:52 [ERROR] uncaughtException: restaurant_id is not defined
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+ReferenceError: restaurant_id is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+2025-04-11 18:50:35 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 18:50:35 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 18:50:35 [INFO] 🌍 Environment: development
+2025-04-11 18:50:39 [ERROR] uncaughtException: restaurant_uuid is not defined
+ReferenceError: restaurant_uuid is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+ReferenceError: restaurant_uuid is not defined
+    at getRestaurantById (C:\Users\johnt\WebstormProjects\book-api2\src\controllers\restaurantController.js:48:23)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\johnt\WebstormProjects\book-api2\node_modules\express\lib\router\index.js:280:10)
+2025-04-11 18:52:23 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 18:52:23 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 18:52:23 [INFO] 🌍 Environment: development
+2025-04-11 19:20:41 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 19:20:47 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 19:20:47 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 19:20:47 [INFO] 🌍 Environment: development
+2025-04-11 19:22:55 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 19:43:06 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 19:43:06 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 19:43:06 [INFO] 🌍 Environment: development
+2025-04-11 19:43:50 [ERROR] Error fetching restaurant by ID: Unknown column 'restaurant_uuid' in 'WHERE'
+Error: Unknown column 'restaurant_uuid' in 'WHERE'
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getRestaurantById (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:54:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-11 19:49:21 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 19:49:23 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 19:49:23 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 19:49:23 [INFO] 🌍 Environment: development
+2025-04-11 19:51:08 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 19:51:09 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 19:51:09 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 19:51:09 [INFO] 🌍 Environment: development
+2025-04-11 20:05:43 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 20:41:31 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 20:41:31 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 20:41:31 [INFO] 🌍 Environment: development
+2025-04-11 21:08:32 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 21:08:35 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 21:08:35 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 21:08:35 [INFO] 🌍 Environment: development
+2025-04-11 21:10:04 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 21:10:07 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 21:10:07 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 21:10:07 [INFO] 🌍 Environment: development
+2025-04-11 21:13:09 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 21:13:11 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 21:13:11 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 21:13:11 [INFO] 🌍 Environment: development
+2025-04-11 21:14:42 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-04-11 21:14:45 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-04-11 21:14:45 [INFO] 🌐 App ready at: http://localhost:3000
+2025-04-11 21:14:45 [INFO] 🌍 Environment: development
+2025-04-11 21:16:04 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 18:57:43 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 18:57:43 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 18:57:43 [INFO] 🌍 Environment: development
+2025-05-01 19:06:14 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 19:06:17 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 19:06:17 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 19:06:17 [INFO] 🌍 Environment: development
+2025-05-01 19:08:38 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 19:08:42 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 19:08:42 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 19:08:42 [INFO] 🌍 Environment: development
+2025-05-01 19:28:09 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 19:28:11 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 19:28:11 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 19:28:11 [INFO] 🌍 Environment: development
+2025-05-01 19:38:34 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 19:38:36 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 19:38:36 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 19:38:36 [INFO] 🌍 Environment: development
+2025-05-01 19:42:46 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 19:49:58 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 19:49:58 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 19:49:58 [INFO] 🌍 Environment: development
+2025-05-01 19:51:07 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 19:51:16 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 19:51:16 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 19:51:16 [INFO] 🌍 Environment: development
+2025-05-01 19:57:02 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 19:57:04 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 19:57:04 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 19:57:04 [INFO] 🌍 Environment: development
+2025-05-01 19:58:15 [WARN] Unauthorized access: No token provided
+2025-05-01 19:58:30 [WARN] Unauthorized access: No token provided
+2025-05-01 20:06:30 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-01 20:06:33 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-01 20:06:33 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-01 20:06:33 [INFO] 🌍 Environment: development
+2025-05-01 20:39:44 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 18:48:56 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 18:48:56 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 18:48:56 [INFO] 🌍 Environment: development
+2025-05-02 18:48:59 [WARN] Unauthorized access: No token provided
+2025-05-02 19:09:22 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:09:24 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:09:24 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:09:24 [INFO] 🌍 Environment: development
+2025-05-02 19:10:09 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:22:48 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:22:48 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:22:48 [INFO] 🌍 Environment: development
+2025-05-02 19:27:37 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:27:41 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:27:41 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:27:41 [INFO] 🌍 Environment: development
+2025-05-02 19:34:05 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:34:08 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:34:08 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:34:08 [INFO] 🌍 Environment: development
+2025-05-02 19:35:24 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:35:27 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:35:27 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:35:27 [INFO] 🌍 Environment: development
+2025-05-02 19:35:37 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:35:40 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:35:40 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:35:40 [INFO] 🌍 Environment: development
+2025-05-02 19:38:49 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:38:52 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:38:52 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:38:52 [INFO] 🌍 Environment: development
+2025-05-02 19:39:35 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 19:39:38 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 19:39:38 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 19:39:38 [INFO] 🌍 Environment: development
+2025-05-02 20:07:59 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-02 20:21:57 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-02 20:21:57 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-02 20:21:57 [INFO] 🌍 Environment: development
+2025-05-02 20:24:16 [ERROR] Login error: Table 'nroda21b_db1.accounts' doesn't exist
+Error: Table 'nroda21b_db1.accounts' doesn't exist
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at Object.getAccountByEmail (C:\General Downloads\booksexaple2\book-api2\src\models\account.model.js:53:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:148:22)
+2025-05-02 21:18:30 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-09 14:57:20 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-09 14:57:20 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-09 14:57:20 [INFO] 🌍 Environment: development
+2025-05-09 15:45:52 [ERROR] Registration error: Table 'nroda21b_db1.accounts' doesn't exist
+Error: Table 'nroda21b_db1.accounts' doesn't exist
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at Object.getAccountByEmail (C:\General Downloads\booksexaple2\book-api2\src\models\account.model.js:53:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async register (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:66:26)
+2025-05-09 18:43:16 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-09 18:43:18 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-09 18:43:19 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-09 18:43:19 [INFO] 🌍 Environment: development
+2025-05-09 18:43:45 [ERROR] Registration error: Table 'nroda21b_db1.accounts' doesn't exist
+Error: Table 'nroda21b_db1.accounts' doesn't exist
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at Object.getAccountByEmail (C:\General Downloads\booksexaple2\book-api2\src\models\account.model.js:53:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async register (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:66:26)
+2025-05-09 20:07:05 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-09 20:07:09 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-09 20:07:09 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-09 20:07:09 [INFO] 🌍 Environment: development
+2025-05-09 20:08:34 [ERROR] Registration error: Field 'id' doesn't have a default value
+Error: Field 'id' doesn't have a default value
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at Object.createAccount (C:\General Downloads\booksexaple2\book-api2\src\models\account.model.js:74:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async register (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:72:9)
+2025-05-09 20:12:27 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-09 20:18:10 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-09 20:18:10 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-09 20:18:10 [INFO] 🌍 Environment: development
+2025-05-09 20:26:09 [ERROR] Registration error: Field 'id' doesn't have a default value
+Error: Field 'id' doesn't have a default value
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at Object.createAccount (C:\General Downloads\booksexaple2\book-api2\src\models\account.model.js:74:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async register (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:72:9)
+2025-05-09 20:34:06 [INFO] [Mock Email] Sending verification email to dule@gmail.com
+2025-05-09 20:34:06 [INFO] [Mock Email] Verification link: https://yourdomain.com/api/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiYjQzYzMyMzEtZjM1YS00YjJhLWFhMjgtNDhkYTcwODFkMjZkIiwiaWF0IjoxNzQ2ODEyMDQ2LCJleHAiOjE3NDY4OTg0NDZ9.iSa2Zl5kfpiOGagDNryMPiAJXO1DUQ6yNY01f30zZAU
+2025-05-09 20:51:26 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-09 20:51:50 [INFO] [Mock Email] Sending verification email to dule@gmail.com
+2025-05-09 20:51:50 [INFO] [Mock Email] Verification link: https://yourdomain.com/api/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiNmZhNzhmNWUtZWYzMy00MjBkLTkxMjktY2RkMWU1YWZiOGU5IiwiaWF0IjoxNzQ2ODEzMTEwLCJleHAiOjE3NDY4OTk1MTB9.6gXK0PvQE5K6q8ssAMhyMpNL3FLNzUnavPr8X9WEHVw
+2025-05-09 21:15:22 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-14 17:47:17 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-14 17:47:17 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-14 17:47:17 [INFO] 🌍 Environment: development
+2025-05-14 17:52:09 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-14 18:00:48 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-14 18:00:48 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-14 18:00:48 [INFO] 🌍 Environment: development
+2025-05-14 18:04:27 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-14 23:46:10 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-14 23:46:10 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-14 23:46:10 [INFO] 🌍 Environment: development
+2025-05-14 23:52:54 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-14 23:53:28 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 00:08:00 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 00:09:19 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 00:10:40 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 00:12:31 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 00:14:15 [WARN] Unauthorized access: No token provided
+2025-05-15 00:16:37 [WARN] Unauthorized access: No token provided
+2025-05-15 00:38:39 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 00:39:02 [INFO] [Mock Email] Sending verification email to aleks@gmail.com
+2025-05-15 00:39:02 [INFO] [Mock Email] Verification link: https://yourdomain.com/api/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiYzA4YjdlMmMtODA1Zi00ZDhmLThjNjYtMzYzZGUyM2I5ZGMzIiwiaWF0IjoxNzQ3MjU4NzQyLCJleHAiOjE3NDczNDUxNDJ9.Ia4a-Brrk6Gq54QbKofA9fg5XW_gO_mK_EKPxzgoqHQ
+2025-05-15 00:53:02 [WARN] Unauthorized access: No token provided
+2025-05-15 01:05:34 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 01:13:55 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 01:14:50 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:14:50 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:14:50 [INFO] 🌍 Environment: development
+2025-05-15 01:18:41 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 01:18:47 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:18:47 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:18:47 [INFO] 🌍 Environment: development
+2025-05-15 01:20:16 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 01:21:44 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:21:44 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:21:44 [INFO] 🌍 Environment: development
+2025-05-15 01:30:46 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 01:30:50 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:30:50 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:30:50 [INFO] 🌍 Environment: development
+2025-05-15 01:31:50 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 01:31:53 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:31:53 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:31:53 [INFO] 🌍 Environment: development
+2025-05-15 01:31:58 [ERROR] uncaughtException: validateRestaurantData is not a function
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-15 01:33:11 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:33:11 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:33:11 [INFO] 🌍 Environment: development
+2025-05-15 01:33:50 [ERROR] uncaughtException: validateRestaurantData is not a function
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-15 01:34:36 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:34:36 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:34:36 [INFO] 🌍 Environment: development
+2025-05-15 01:34:49 [ERROR] uncaughtException: validateRestaurantData is not a function
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-15 01:42:00 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:42:00 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:42:00 [INFO] 🌍 Environment: development
+2025-05-15 01:43:45 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 01:43:50 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:43:50 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:43:50 [INFO] 🌍 Environment: development
+2025-05-15 01:44:04 [ERROR] uncaughtException: validateRestaurantData is not a function
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-15 01:46:51 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:46:51 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:46:51 [INFO] 🌍 Environment: development
+2025-05-15 01:47:47 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 01:47:49 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:47:49 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:47:49 [INFO] 🌍 Environment: development
+2025-05-15 01:48:05 [ERROR] uncaughtException: validateRestaurantData is not a function
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:104:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:104:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-15 01:54:03 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:54:03 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:54:03 [INFO] 🌍 Environment: development
+2025-05-15 01:55:13 [ERROR] uncaughtException: validateRestaurantData is not a function
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-15 01:59:55 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 01:59:55 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 01:59:55 [INFO] 🌍 Environment: development
+2025-05-15 02:00:07 [ERROR] uncaughtException: validateRestaurantData is not a function
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:34)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateRestaurantData is not a function
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:34)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-15 02:01:33 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:01:33 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:01:33 [INFO] 🌍 Environment: development
+2025-05-15 02:04:06 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:04:11 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:04:11 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:04:11 [INFO] 🌍 Environment: development
+2025-05-15 02:04:37 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\booksexaple2\book-api2\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\index.js:47:12)
+2025-05-15 02:07:10 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:07:15 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:07:15 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:07:15 [INFO] 🌍 Environment: development
+2025-05-15 02:10:11 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:10:15 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:10:15 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:10:15 [INFO] 🌍 Environment: development
+2025-05-15 02:10:38 [ERROR] Error updating restaurant: Table 'nroda21b_db1.restaurant' doesn't exist
+Error: Table 'nroda21b_db1.restaurant' doesn't exist
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:114:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-15 02:12:43 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:12:47 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:12:47 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:12:47 [INFO] 🌍 Environment: development
+2025-05-15 02:12:58 [ERROR] Error updating restaurant: Table 'nroda21b_db1.restaurant' doesn't exist
+Error: Table 'nroda21b_db1.restaurant' doesn't exist
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:114:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-15 02:14:35 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:14:39 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:14:39 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:14:39 [INFO] 🌍 Environment: development
+2025-05-15 02:14:49 [ERROR] uncaughtException: restaurant is not defined
+ReferenceError: restaurant is not defined
+    at validateRestaurantData (C:\General Downloads\booksexaple2\book-api2\src\utils\RestaurantValidation.js:24:5)
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:34)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+ReferenceError: restaurant is not defined
+    at validateRestaurantData (C:\General Downloads\booksexaple2\book-api2\src\utils\RestaurantValidation.js:24:5)
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:105:34)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\booksexaple2\book-api2\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\booksexaple2\book-api2\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\booksexaple2\book-api2\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\booksexaple2\book-api2\node_modules\jsonwebtoken\verify.js:97:14)
+2025-05-15 02:15:18 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:15:18 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:15:18 [INFO] 🌍 Environment: development
+2025-05-15 02:15:24 [ERROR] Error updating restaurant: Table 'nroda21b_db1.restaurant' doesn't exist
+Error: Table 'nroda21b_db1.restaurant' doesn't exist
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:114:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-15 02:16:25 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:16:30 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:16:30 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:16:30 [INFO] 🌍 Environment: development
+2025-05-15 02:16:36 [ERROR] Error updating restaurants: Incorrect datetime value: '2025-05-14T23:16:35.915Z' for column `nroda21b_db1`.`restaurants`.`created_at` at row 1
+Error: Incorrect datetime value: '2025-05-14T23:16:35.915Z' for column `nroda21b_db1`.`restaurants`.`created_at` at row 1
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:121:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-15 02:25:15 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:25:19 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:25:19 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:25:19 [INFO] 🌍 Environment: development
+2025-05-15 02:26:42 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:26:45 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:26:45 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:26:45 [INFO] 🌍 Environment: development
+2025-05-15 02:27:58 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:28:10 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:28:10 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:28:10 [INFO] 🌍 Environment: development
+2025-05-15 02:44:51 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:44:59 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:44:59 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:44:59 [INFO] 🌍 Environment: development
+2025-05-15 02:48:53 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:48:59 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:48:59 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:48:59 [INFO] 🌍 Environment: development
+2025-05-15 02:49:49 [ERROR] Error creating restaurants: Incorrect datetime value: '2025-05-14T23:49:49.048Z' for column `nroda21b_db1`.`restaurants`.`created_at` at row 1
+Error: Incorrect datetime value: '2025-05-14T23:49:49.048Z' for column `nroda21b_db1`.`restaurants`.`created_at` at row 1
+    at PromiseConnection.execute (C:\General Downloads\booksexaple2\book-api2\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createRestaurant (C:\General Downloads\booksexaple2\book-api2\src\controllers\restaurantController.js:82:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-15 02:50:53 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-15 02:50:58 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-15 02:50:58 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-15 02:50:58 [INFO] 🌍 Environment: development
+2025-05-15 02:52:11 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 15:22:37 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 15:22:37 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 15:22:37 [INFO] 🌍 Environment: development
+2025-05-16 15:29:35 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 15:29:44 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 15:29:44 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 15:29:44 [INFO] 🌍 Environment: development
+2025-05-16 15:36:47 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-16 15:48:26 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-16 15:57:02 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 15:57:09 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 15:57:09 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 15:57:09 [INFO] 🌍 Environment: development
+2025-05-16 15:58:50 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 15:58:53 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 15:58:53 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 15:58:53 [INFO] 🌍 Environment: development
+2025-05-16 16:04:59 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 16:05:04 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 16:05:04 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 16:05:04 [INFO] 🌍 Environment: development
+2025-05-16 16:05:13 [ERROR] Error fetching reservations by restaurant_id: Unknown column 'res.id' in 'ON'
+Error: Unknown column 'res.id' in 'ON'
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at getReservationsByRestaurantId (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:197:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 16:07:17 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 16:07:53 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 16:07:53 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 16:07:53 [INFO] 🌍 Environment: development
+2025-05-16 16:22:31 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 16:22:35 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 16:22:35 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 16:22:35 [INFO] 🌍 Environment: development
+2025-05-16 16:22:38 [ERROR] uncaughtException: validateReservationData is not a function
+TypeError: validateReservationData is not a function
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:104:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateReservationData is not a function
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:104:24)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-16 16:27:28 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 16:27:28 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 16:27:28 [INFO] 🌍 Environment: development
+2025-05-16 16:27:33 [ERROR] uncaughtException: validateReservationData is not a function
+TypeError: validateReservationData is not a function
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:104:35)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:101:10)
+TypeError: validateReservationData is not a function
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:104:35)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at validateUUID (C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\validateUUID.middleware.js:14:5)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at C:\General Downloads\ForKosmidis\book-api2updated\src\middlewares\auth.middleware.js:37:9
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\jsonwebtoken\verify.js:101:10)
+2025-05-16 16:29:14 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 16:29:14 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 16:29:14 [INFO] 🌍 Environment: development
+2025-05-16 16:34:48 [ERROR] Error updating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:120:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 16:50:49 [WARN] Unauthorized: Token expired
+2025-05-16 16:50:59 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-16 16:51:37 [ERROR] Error updating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:120:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 16:53:56 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-16 16:55:36 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 16:55:39 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 16:55:39 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 16:55:39 [INFO] 🌍 Environment: development
+2025-05-16 16:56:10 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 16:56:13 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 16:56:13 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 16:56:13 [INFO] 🌍 Environment: development
+2025-05-16 16:59:05 [ERROR] Error updating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:120:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:02:45 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 17:05:31 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 17:05:31 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 17:05:31 [INFO] 🌍 Environment: development
+2025-05-16 17:06:04 [ERROR] Error updating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:120:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:08:08 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 17:08:17 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 17:08:17 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 17:08:17 [INFO] 🌍 Environment: development
+2025-05-16 17:08:49 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 17:08:50 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 17:08:50 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 17:08:50 [INFO] 🌍 Environment: development
+2025-05-16 17:09:51 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 17:09:53 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 17:09:53 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 17:09:53 [INFO] 🌍 Environment: development
+2025-05-16 17:10:08 [ERROR] Error updating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:126:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:11:06 [ERROR] Error updating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:126:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:15:27 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 17:15:30 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 17:15:30 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 17:15:30 [INFO] 🌍 Environment: development
+2025-05-16 17:15:42 [ERROR] Error updating reservation: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\base\connection.js:660:17
+    at Array.forEach (<anonymous>)
+    at Connection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\base\connection.js:652:22)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:56:11
+    at new Promise (<anonymous>)
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:53:12)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:126:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:16:40 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 17:16:42 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 17:16:42 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 17:16:42 [INFO] 🌍 Environment: development
+2025-05-16 17:16:54 [ERROR] Error updating reservation: Unknown column 'updated_at' in 'SET'
+Error: Unknown column 'updated_at' in 'SET'
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at updateReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:126:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:19:16 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 17:19:20 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 17:19:20 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 17:19:20 [INFO] 🌍 Environment: development
+2025-05-16 17:35:55 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:50:45 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:51:10 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:51:43 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 17:52:23 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 18:03:34 [WARN] Unauthorized: Token expired
+2025-05-16 18:03:41 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-16 18:04:35 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 19:00:59 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-16 19:07:51 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 19:07:54 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 19:07:54 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 19:07:54 [INFO] 🌍 Environment: development
+2025-05-16 19:29:28 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 19:29:30 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 19:29:30 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 19:29:30 [INFO] 🌍 Environment: development
+2025-05-16 19:33:00 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 19:33:01 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 19:33:01 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 19:33:01 [INFO] 🌍 Environment: development
+2025-05-16 19:43:51 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 20:00:48 [ERROR] Error creating reservation: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+Error: Incorrect integer value: 'd1609ef8-16f4-11f0-978b-76eaf385044d' for column `nroda21b_db1`.`reservations2`.`restaurant_id` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 20:08:48 [WARN] Unauthorized: Token expired
+2025-05-16 20:08:58 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-16 20:11:07 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 20:11:11 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 20:11:11 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 20:11:11 [INFO] 🌍 Environment: development
+2025-05-16 20:11:15 [ERROR] Error creating reservation: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\base\connection.js:660:17
+    at Array.forEach (<anonymous>)
+    at Connection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\base\connection.js:652:22)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:56:11
+    at new Promise (<anonymous>)
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:53:12)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:87:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 20:12:03 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 20:12:22 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 20:12:22 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 20:12:22 [INFO] 🌍 Environment: development
+2025-05-16 20:12:41 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 20:13:04 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 20:13:04 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 20:13:04 [INFO] 🌍 Environment: development
+2025-05-16 20:13:33 [ERROR] Error creating reservation: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\base\connection.js:660:17
+    at Array.forEach (<anonymous>)
+    at Connection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\base\connection.js:652:22)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:56:11
+    at new Promise (<anonymous>)
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:53:12)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:88:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 20:13:58 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 20:14:00 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 20:14:00 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 20:14:00 [INFO] 🌍 Environment: development
+2025-05-16 20:14:24 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 20:14:25 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 20:14:25 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 20:14:25 [INFO] 🌍 Environment: development
+2025-05-16 20:15:08 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 20:15:11 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 20:15:11 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 20:15:11 [INFO] 🌍 Environment: development
+2025-05-16 20:22:53 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-16 20:22:56 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-16 20:22:56 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-16 20:22:56 [INFO] 🌍 Environment: development
+2025-05-16 20:23:02 [ERROR] Error creating reservation: Incorrect datetime value: '2025-05-16T17:23:01.961Z' for column `nroda21b_db1`.`reservations2`.`created_at` at row 1
+Error: Incorrect datetime value: '2025-05-16T17:23:01.961Z' for column `nroda21b_db1`.`reservations2`.`created_at` at row 1
+    at PromiseConnection.execute (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at createReservation (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\reservationController.js:88:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-16 20:54:24 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-23 19:41:19 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-23 19:41:19 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-23 19:41:19 [INFO] 🌍 Environment: development
+2025-05-23 19:44:06 [WARN] Unauthorized: Token expired
+2025-05-23 19:44:15 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-23 19:49:12 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-23 19:50:30 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-25 19:56:27 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 21:57:33 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 22:17:56 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-27 22:19:18 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-27 22:19:18 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-27 22:19:18 [INFO] 🌍 Environment: development
+2025-05-27 22:20:06 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 22:36:50 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 22:38:35 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 22:39:26 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 22:39:49 [INFO] [Mock Email] Sending verification email to aleks123@gmail.com
+2025-05-27 22:39:49 [INFO] [Mock Email] Verification link: https://yourdomain.com/api/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiY2NjZDkyMzYtMTQ0Ni00NThmLWI1NjgtNzQzMTdhNjMzNTdiIiwiaWF0IjoxNzQ4Mzc0Nzg5LCJleHAiOjE3NDg0NjExODl9.4adUusG0fWTsN6lEWoPYxo4-rQJNt5YFuSyGb47h9xc
+2025-05-27 22:44:52 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 22:45:26 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:02:48 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:03:27 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:06:40 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:07:38 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:09:56 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:13:26 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:16:04 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:17:27 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:22:15 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:27:21 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:28:24 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:29:45 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:31:48 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:40:38 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-27 23:48:53 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-28 00:12:39 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-28 00:13:15 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-28 00:19:17 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-28 00:26:41 [ERROR] Logout error: Cannot read properties of undefined (reading 'uuid')
+TypeError: Cannot read properties of undefined (reading 'uuid')
+    at logout (C:\General Downloads\ForKosmidis\book-api2updated\src\controllers\authController.js:199:31)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\layer.js:95:5)
+    at C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\General Downloads\ForKosmidis\book-api2updated\node_modules\express\lib\router\index.js:47:12)
+2025-05-28 00:35:20 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-28 22:12:49 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-28 22:12:49 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-28 22:12:49 [INFO] 🌍 Environment: development
+2025-05-28 22:13:12 [INFO] 
+🛑 SIGINT received. Shutting down server gracefully...
+2025-05-28 22:13:13 [INFO] 📖 Swagger UI: http://localhost:3000/api-docs
+2025-05-28 22:13:13 [INFO] 🌐 App ready at: http://localhost:3000
+2025-05-28 22:13:13 [INFO] 🌍 Environment: development
