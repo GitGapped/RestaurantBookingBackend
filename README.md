@@ -10,11 +10,7 @@ A robust RESTful API for managing table booking operations, built with Node.js a
 
 ## 🛠️ Installation
 
-1. Clone the repository:
-```bash
-git clone <your-repository-url>
-cd book-api
-```
+1. Clone the repository
 
 2. Install dependencies:
 ```bash
